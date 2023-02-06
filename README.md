@@ -1,1 +1,2 @@
-# OIBGRIP-task-1 level -2 Task_1
+OIBGRIP-task-1 level -2 Task_1
+CALCULATOR
